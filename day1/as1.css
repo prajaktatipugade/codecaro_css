@@ -1,0 +1,26 @@
+.box{
+    background-color: rgb(7, 208, 121);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:50px auto;
+    padding:100px 50px;  
+    border-radius:10px;
+    width:50%;
+    height:50%;
+    font-size:150%;
+    text-align: left;
+    box-sizing: border-box;
+}
+.button-box{
+    background-color: aliceblue;
+    border-radius: 50px;
+    text-align: center;
+    font-style:bold;
+    font-size: 60%;
+    width:40%;
+    height: auto;
+    border: none;
+    padding: 20px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    color: black;
+}

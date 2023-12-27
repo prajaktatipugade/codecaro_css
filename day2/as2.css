@@ -1,0 +1,23 @@
+.imgg{
+    position: relative;
+    width:500px;
+    margin:50% auto; 
+    text-align: center;
+}
+
+img{
+    width:100%;
+    border-radius: 10px;
+}
+.imgtext{
+    position: absolute;
+    bottom: 50px;
+    padding:20px;
+}
+button{
+    background-color: aliceblue;
+    border-radius: 140px;
+    font-style: bold;
+    border: none;
+    padding: 10px;
+}

@@ -1,0 +1,45 @@
+.imgg{
+    position: relative;
+    width:500px;
+    margin:50% auto; 
+    text-align: center;
+}
+
+img{
+    width:100%;
+    border-radius: 10px;
+}
+.imgtext{
+    position: absolute;
+    bottom: 100px;
+    padding:20px;
+    left:30%;
+    top:20%;
+    color:white;
+}
+.inputsection{
+    font-style: bold;
+    top:60%;
+    position: absolute;
+    padding: none;
+    left: 100px;
+}
+.inputsearch{
+    padding: 5px;
+    width: 250px;
+    border-bottom-right-radius:5px ;
+    border-top-right-radius:5px ;
+    border: none;
+}
+.inputoption{
+    padding: 5px;
+   border-bottom-left-radius:5px ;
+   border-top-left-radius:5px ;
+
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight:1000;
+    border:none;
+}

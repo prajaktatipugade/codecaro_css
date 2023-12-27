@@ -1,0 +1,45 @@
+.box{
+   margin: 50px auto;
+   border:1px solid black;
+   border-radius: 10px;
+   width: 400px;
+   height:400px;
+   padding:10px;
+
+}
+.boximg{
+    width:400px;
+    height:220px;
+    align-items:center;
+    border-radius: 10px;
+}
+.discount{
+    padding: 3px;
+    position: absolute;
+    bottom:35px;
+    background-color: rgb(119, 213, 24);
+}
+.min{
+    position: absolute;
+    padding: 5px;
+    bottom: 35px;
+    right: 30px;
+    background-color: rgb(176, 180, 171);
+    width: auto;
+    border-radius: 5px;
+}
+.Prompted{
+    position: absolute;
+    top: 6px;
+    left: 10px;
+    background-color: rgb(90, 93, 87);
+    width: auto;
+    font-size: 11px;
+    padding: 1px;
+}
+.relative{
+    position: relative; 
+}
+.p{
+    color:rgb(66, 65, 65);
+}
